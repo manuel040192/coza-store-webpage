@@ -1,2 +1,2 @@
-# medicio-webpage
-Medicio Webpage
+# coza-store-webpage
+Coza Store Webpage
